@@ -1,14 +1,11 @@
 ### Hi, I’m Amirul 🤓
 
-A full-stack developer slash dev-ops engineer that passionate in helping people grow their business.
+A full-stack developer slash dev-ops engineer that passionate in helping people grow their business
 
 ### What Can I Offer
-<ul>
-  <li>Web Development</li>
-  <li>API Integration</li>
-  <li>Unit Test</li>
-  <li>Server Deployment</li>
-</ul>
+<p>
+  Web Development + API Integration + Unit Test + >Server Deployment
+</p>
 
 ### Latest Tech Stacks
 <p>
