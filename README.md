@@ -4,7 +4,7 @@ A full-stack developer slash dev-ops engineer that passionate in helping people 
 
 ### What Can I Offer
 <p>
-  Web Development + API Integration + Unit Test + >Server Deployment
+ 	Web Development + API Integration + Unit Test + Server Deployment
 </p>
 
 ### Latest Tech Stacks
