@@ -20,4 +20,4 @@ A full-stack developer slash dev-ops engineer that passionate in helping people 
 
 ---
 
-<sub>README profile was inspired by [Hafiz](https://github.com/kurkurzz)</sub>
+<sub>Github profile was inspired by [Hafiz](https://github.com/kurkurzz)</sub>
