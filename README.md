@@ -1,7 +1,7 @@
 <h1 align='center'>Hi, I’m Amirul 🤓</h1>
 
 <p align='center'>
-	A full-stack developer slash dev-ops engineer that passionate in helping people grow their business
+	A full-stack developer & dev-ops engineer that passionate in helping people grow their business
 </p>
 
 <br>
@@ -9,7 +9,7 @@
 <p align='center'><strong>What Can I Offer</strong></p>
 
 <p align='center'>
- 	Web Development + API Integration + Unit Test + Server Deployment
+ 	Web Development + API Integration + Automation Test + Server Deployment
 </p>
 
 <br>
