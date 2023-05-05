@@ -54,5 +54,5 @@
 ---
 
 <p align="center">
-	<sub>Github profile was inspired by <a href="https://github.com/kurkurzz" target="_blank">Muhammad Nurhafiz</a>, <a href="https://github.com/jh3y" target="_blank">Jhey Tompkins</a>, <a href="https://github.com/HakamRaza" target="_blank">HakamRaza</a> and <a href="https://github.com/patelzz007" target="_blank">Bishen Patel</a></sub>
+	<sub>This Github profile was inspired from <a href="https://github.com/kurkurzz" target="_blank">Muhammad Nurhafiz</a>, <a href="https://github.com/jh3y" target="_blank">Jhey Tompkins</a>, <a href="https://github.com/HakamRaza" target="_blank">HakamRaza</a> and <a href="https://github.com/patelzz007" target="_blank">Bishen Patel</a></sub>
 </p>
