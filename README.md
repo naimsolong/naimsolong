@@ -4,15 +4,36 @@
 	A full-stack developer that passionate in helping people grow their business
 </p>
 
-<br>
-
 <h3 align='center'><strong>What Can I Offer</strong></h3>
 
-<p align='center'>
- 	Web Development + API Integration + Automation Test + Server Deployment
-</p>
-
-<br>
+<table align="center">
+	<tr>
+		<td align="center" width="25%">
+			<img src="https://cdn.popsy.co/images/https%3A%2F%2Fwww.notion.so%2Fimage%2Fhttps%253A%252F%252Fs3-us-west-2.amazonaws.com%252Fsecure.notion-static.com%252F71e8a617-8a52-426d-a074-d873980a4490%252Fcoding.png%3Ftable%3Dblock%26id%3D7a43fe3c-b251-4d66-acab-7e5d3c3ea3da%26cache%3Dv2?width=1500&optimizer=image" align="center" width="50%" />
+			<p align='center'>
+				Web Development
+			</p>
+		</td>
+		<td align="center" width="25%">
+			<img src="https://cdn.popsy.co/images/https%3A%2F%2Fwww.notion.so%2Fimage%2Fhttps%253A%252F%252Fs3-us-west-2.amazonaws.com%252Fsecure.notion-static.com%252F9feff946-bb6e-4215-8a51-1ae5fc22a273%252Fapi.png%3Ftable%3Dblock%26id%3D02163001-cbee-49c7-8470-86f901a4a33a%26cache%3Dv2?width=1500&optimizer=image" align="center" width="50%" />
+			<p align='center'>
+				API Integration
+			</p>
+		</td>
+		<td align="center" width="25%">
+			<img src="https://cdn.popsy.co/images/https%3A%2F%2Fwww.notion.so%2Fimage%2Fhttps%253A%252F%252Fs3-us-west-2.amazonaws.com%252Fsecure.notion-static.com%252Ff78e0209-65c1-4772-ab34-c1d8d2d8c45f%252Fchecklist.png%3Ftable%3Dblock%26id%3D943b6a02-d768-4956-b845-249fe68a1f62%26cache%3Dv2?width=1500&optimizer=image" align="center" width="50%" />
+			<p align='center'>
+				Automation Test
+			</p>
+		</td>
+		<td align="center" width="25%">
+			<img src="https://cdn.popsy.co/images/https%3A%2F%2Fwww.notion.so%2Fimage%2Fhttps%253A%252F%252Fs3-us-west-2.amazonaws.com%252Fsecure.notion-static.com%252F0d270ad5-762c-4057-9ea0-5a53a5549013%252Fservers.png%3Ftable%3Dblock%26id%3Dc43a9f4a-6d0d-400e-898b-51b65d0e5974%26cache%3Dv2?width=1500&optimizer=image" align="center" width="50%" />
+			<p align='center'>
+				Server Deployment
+			</p>
+		</td>
+	</tr>
+</table>
 
 <h3 align='center'><strong>Tech Stack</strong></h3>
 
@@ -43,8 +64,6 @@
 	<img alt="Notion" src="https://img.shields.io/badge/notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
 	<img alt="VS Code" src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
-
-<br>
 
 <h3 align='center'><strong>Github Stats</strong></h3>
 
