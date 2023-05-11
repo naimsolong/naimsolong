@@ -24,7 +24,7 @@
 	<img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 	<img alt="Svelte" src="https://img.shields.io/badge/Svelte-%23FF3E00.svg?style=for-the-badge&logo=svelte&logoColor=white"/>
  	<img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
- 	<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"/>
+ <!--	<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"/> -->
 	<img alt="MySQL" src="https://img.shields.io/badge/MySQL-%23f29111.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 	<img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
  	<img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"/>
@@ -39,7 +39,7 @@
 	<img alt="Digital Ocean" src="https://img.shields.io/badge/digital_ocean-%230080FF.svg?style=for-the-badge&logo=digitalocean&logoColor=white"/>
 	<img alt="NGINX" src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
 	<img alt="Git" src="https://img.shields.io/badge/Git-%23E44C30.svg?style=for-the-badge&logo=git&logoColor=white"/>
-	<img alt="Linux" src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black"/>
+	<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white"/>
 	<img alt="Notion" src="https://img.shields.io/badge/notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
 	<img alt="VS Code" src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
