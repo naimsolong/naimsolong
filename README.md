@@ -80,7 +80,7 @@
 	</tr>
 	<tr>
 		<td align="center" width="50%">
-			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naimsolong&hide_border=true&layout=compact" align="center" />
+			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naimsolong&hide_border=true&layout=compact&hide=Blade" align="center" />
 		</td>  
 		<td align="center" width="50%">
 			<img src="https://github-readme-stats.vercel.app/api?username=naimsolong&show_icons=true&count_private=true&hide_border=true" align="center" />
