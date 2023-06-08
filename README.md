@@ -4,7 +4,7 @@
 	A full-stack developer that passionate in helping people grow their business
 </p>
 
-<h3 align='center'><strong>What Can I Offer</strong></h3>
+<!-- <h3 align='center'><strong>What Do I Offer</strong></h3>
 
 <table align="center">
 	<tr>
@@ -33,7 +33,7 @@
 			</p>
 		</td>
 	</tr>
-</table>
+</table> -->
 
 <h3 align='center'><strong>Tech Stack</strong></h3>
 
