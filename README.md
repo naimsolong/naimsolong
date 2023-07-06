@@ -43,6 +43,7 @@
 	<img alt="Laravel" src="https://img.shields.io/badge/Laravel-%23fd1303.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
 <!-- 	<img alt="InertiaJS" src="https://img.shields.io/badge/Inertia_JS-%238d5aea.svg?style=for-the-badge&logo=inertiajs&logoColor=white"/> -->
 	<img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+	<img alt="VueJS" src="https://img.shields.io/badge/VueJS-%234FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
 	<img alt="Svelte" src="https://img.shields.io/badge/Svelte-%23FF3E00.svg?style=for-the-badge&logo=svelte&logoColor=white"/>
  	<img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
  <!--	<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"/> -->
@@ -58,7 +59,8 @@
 <!-- 	<img alt="RunCloud" src="https://img.shields.io/badge/runcloud-%23232F3E.svg?style=for-the-badge&logo=runcloud&logoColor=white"/> -->
 	<img alt="Amazon AWS" src="https://img.shields.io/badge/aws-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 	<img alt="Digital Ocean" src="https://img.shields.io/badge/digital_ocean-%230080FF.svg?style=for-the-badge&logo=digitalocean&logoColor=white"/>
-	<img alt="NGINX" src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
+	<img alt="Docker" src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
+	<img alt="NGINX" src="https://img.shields.io/badge/NGINX-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
 	<img alt="Git" src="https://img.shields.io/badge/Git-%23E44C30.svg?style=for-the-badge&logo=git&logoColor=white"/>
 	<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white"/>
 </p>
