@@ -1,7 +1,7 @@
 <h1 align='center'>Hi, I’m Amirul 🤓</h1>
 
 <p align='center'>
-	A full-stack developer that passionate in helping people grow their business
+	A full-stack developer that passionate in business growth
 </p>
 
 <!-- <h3 align='center'><strong>What Do I Offer</strong></h3>
@@ -37,41 +37,84 @@
 
 <h3 align='center'><strong>Tech Stack</strong></h3>
 
-<!-- Languages & Framework-->
+<!-- Framework-->
 
 <p align='center'>
-	<a href="https://laravel.com" target="_blank"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-%23fd1303.svg?style=for-the-badge&logo=laravel&logoColor=white"/></a>
-<!-- 	<img alt="InertiaJS" src="https://img.shields.io/badge/Inertia_JS-%238d5aea.svg?style=for-the-badge&logo=inertiajs&logoColor=white"/> -->
-	<img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-	<img alt="VueJS" src="https://img.shields.io/badge/VueJS-%234FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
-	<img alt="Svelte" src="https://img.shields.io/badge/Svelte-%23FF3E00.svg?style=for-the-badge&logo=svelte&logoColor=white"/>
- 	<img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
- <!--	<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"/> -->
-	<img alt="MySQL" src="https://img.shields.io/badge/MySQL-%23f29111.svg?style=for-the-badge&logo=mysql&logoColor=white" />
- <!--	<img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/> -->
- <!--	<img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"/> -->
- <!--	<img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white"/> -->
+	<a href="https://laravel.com" target="_blank">
+		<img alt="Laravel" src="https://img.shields.io/badge/Laravel-%23fd1303.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
+	</a>
+	<a href="https://inertiajs.com/" target="_blank">
+		<img alt="InertiaJS" src="https://img.shields.io/badge/Inertia_JS-%239553E9.svg?style=for-the-badge&logo=inertia&logoColor=white"/>
+	</a>
+	<a href="https://tailwindcss.com/" target="_blank">
+		<img alt="Nuxt JS" src="https://img.shields.io/badge/Nuxt_JS-%2300DC82.svg?style=for-the-badge&logo=nuxtdotjs&logoColor=white"/>
+	</a>
+	<a href="https://tailwindcss.com/" target="_blank">
+		<img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+	</a>
+</p>
+
+<!-- Languages-->
+
+<p align='center'>
+	<a href="https://www.php.net/" target="_blank">
+ 		<img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
+	</a>
+	<a href="https://vuejs.org/" target="_blank">
+		<img alt="VueJS" src="https://img.shields.io/badge/VueJS-%234FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
+	</a>
+	<a href="https://svelte.dev/" target="_blank">
+		<img alt="Svelte" src="https://img.shields.io/badge/Svelte-%23FF3E00.svg?style=for-the-badge&logo=svelte&logoColor=white"/>
+	</a>
+	<a href="https://mysql.com/" target="_blank">
+		<img alt="MySQL" src="https://img.shields.io/badge/MySQL-%23f29111.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+	</a>
+	<!-- <a href="https://go.dev/" target="_blank">
+ 		<img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/> 
+	</a> -->
 </p>
 
 <!-- Cloud Service -->
 
 <p align='center'>
-	<img alt="Amazon AWS" src="https://img.shields.io/badge/aws-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-	<img alt="Digital Ocean" src="https://img.shields.io/badge/digital_ocean-%230080FF.svg?style=for-the-badge&logo=digitalocean&logoColor=white"/>
-	<img alt="Cloudflare Page" src="https://img.shields.io/badge/CloudFlare_Pages-%23F38020.svg?style=for-the-badge&logo=cloudflarepages&logoColor=white"/>
-	<img alt="Docker" src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
-	<img alt="NGINX" src="https://img.shields.io/badge/NGINX-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
-	<img alt="Git" src="https://img.shields.io/badge/Git-%23E44C30.svg?style=for-the-badge&logo=git&logoColor=white"/>
-	<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white"/>
-<!-- 	<img alt="RunCloud" src="https://img.shields.io/badge/runcloud-%23232F3E.svg?style=for-the-badge&logo=runcloud&logoColor=white"/> -->
+	<a href="https://aws.amazon.com/" target="_blank">
+		<img alt="Amazon AWS" src="https://img.shields.io/badge/aws-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+	</a>
+	<a href="https://www.digitalocean.com/" target="_blank">
+		<img alt="Digital Ocean" src="https://img.shields.io/badge/digital_ocean-%230080FF.svg?style=for-the-badge&logo=digitalocean&logoColor=white"/>
+	</a>
+	<a href="https://pages.cloudflare.com/" target="_blank">
+		<img alt="Cloudflare Page" src="https://img.shields.io/badge/CloudFlare_Pages-%23F38020.svg?style=for-the-badge&logo=cloudflarepages&logoColor=white"/>
+	</a>
+	<a href="https://docker.com/" target="_blank">
+		<img alt="Docker" src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
+	</a>
+	<a href="https://nginx.com/" target="_blank">
+		<img alt="NGINX" src="https://img.shields.io/badge/NGINX-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
+	</a>
+	<a href="https://git-scm.com/" target="_blank">
+		<img alt="Git" src="https://img.shields.io/badge/Git-%23E44C30.svg?style=for-the-badge&logo=git&logoColor=white"/>
+	</a>
+	<a href="https://ubuntu.com/" target="_blank">
+		<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white"/>
+	</a>
+	<!-- <a href="https://runcloud.io/" target="_blank">
+	 	<img alt="RunCloud" src="https://img.shields.io/badge/runcloud-%23232F3E.svg?style=for-the-badge&logo=runcloud&logoColor=white"/>
+	</a> -->
 </p>
 
 <!-- Tools-->
 
 <p align='center'>
-	<img alt="VS Code" src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-	<img alt="DataGrip" src="https://img.shields.io/badge/datagrip-%23000000.svg?style=for-the-badge&logo=datagrip&logoColor=white"/>
-	<img alt="Notion" src="https://img.shields.io/badge/notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
+	<a href="https://code.visualstudio.com/" target="_blank">
+		<img alt="VS Code" src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+	</a>
+	<a href="https://www.jetbrains.com/datagrip/" target="_blank">
+		<img alt="DataGrip" src="https://img.shields.io/badge/datagrip-%23000000.svg?style=for-the-badge&logo=datagrip&logoColor=white"/>
+	</a>
+	<a href="https://www.notion.so/" target="_blank">
+		<img alt="Notion" src="https://img.shields.io/badge/notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
+	</a>
 </p>
 
 <h3 align='center'><strong>Github Stats</strong></h3>
