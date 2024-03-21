@@ -1,7 +1,7 @@
-<h1 align='center'>Hi, I’m Amirul 🤓</h1>
+<!-- <h1 align='center'>Hi, I’m Amirul 🤓</h1> -->
 
 <p align='center'>
-	A full-stack developer that passionate in business growth
+	A <strong>full-stack developer</strong> that passionate in business growth
 </p>
 
 <!-- <h3 align='center'><strong>What Do I Offer</strong></h3>
@@ -120,11 +120,11 @@
 <h3 align='center'><strong>Github Stats</strong></h3>
 
 <table align="center">
-	<tr>
+	<!-- <tr>
 		<td align="center" width="100%" colspan="2">
 			<img src="https://github-readme-streak-stats.herokuapp.com/?user=naimsolong&hide_border=true&layout=compact" align="center" />
 		</td>
-	</tr>
+	</tr> -->
 	<tr>
 		<td align="center" width="50%">
 			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naimsolong&hide_border=true&layout=compact&hide=Blade&langs_count=10" align="center" />
