@@ -1,17 +1,21 @@
 <!-- <h1 align='center'>Hi, I’m Amirul 🤓</h1> -->
 
 <p align='center'>
-	A <strong>full-stack developer</strong> that passionate in business growth
+	To be truly rich, we need to be able to give as well as to receive.
 </p>
 
-<!-- <h3 align='center'><strong>What Do I Offer</strong></h3>
+<p align='center'>
+	A <strong>full-stack developer</strong> that passionate in business growth and can help you with...
+</p>
+
+<!-- <h3 align='center'><strong>What Do I Offer</strong></h3> -->
 
 <table align="center">
 	<tr>
 		<td align="center" width="25%">
 			<img src="https://cdn.popsy.co/images/https%3A%2F%2Fwww.notion.so%2Fimage%2Fhttps%253A%252F%252Fs3-us-west-2.amazonaws.com%252Fsecure.notion-static.com%252F71e8a617-8a52-426d-a074-d873980a4490%252Fcoding.png%3Ftable%3Dblock%26id%3D7a43fe3c-b251-4d66-acab-7e5d3c3ea3da%26cache%3Dv2?width=1500&optimizer=image" align="center" width="50%" />
 			<p align='center'>
-				Web Development
+				FE-BE Development
 			</p>
 		</td>
 		<td align="center" width="25%">
@@ -23,7 +27,7 @@
 		<td align="center" width="25%">
 			<img src="https://cdn.popsy.co/images/https%3A%2F%2Fwww.notion.so%2Fimage%2Fhttps%253A%252F%252Fs3-us-west-2.amazonaws.com%252Fsecure.notion-static.com%252Ff78e0209-65c1-4772-ab34-c1d8d2d8c45f%252Fchecklist.png%3Ftable%3Dblock%26id%3D943b6a02-d768-4956-b845-249fe68a1f62%26cache%3Dv2?width=1500&optimizer=image" align="center" width="50%" />
 			<p align='center'>
-				Automation Test
+				Unit & Feature Test
 			</p>
 		</td>
 		<td align="center" width="25%">
@@ -33,7 +37,7 @@
 			</p>
 		</td>
 	</tr>
-</table> -->
+</table>
 
 <h3 align='center'><strong>Tech Stack</strong></h3>
 
@@ -77,15 +81,15 @@
 <!-- Cloud Service -->
 
 <p align='center'>
-	<a href="https://aws.amazon.com/" target="_blank">
-		<img alt="Amazon AWS" src="https://img.shields.io/badge/aws-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+ 	 <!-- <a href="https://aws.amazon.com/" target="_blank">
+		<img alt="Amazon AWS" src="https://img.shields.io/badge/aws-%23232F3E.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
 	</a>
 	<a href="https://www.digitalocean.com/" target="_blank">
 		<img alt="Digital Ocean" src="https://img.shields.io/badge/digital_ocean-%230080FF.svg?style=for-the-badge&logo=digitalocean&logoColor=white"/>
 	</a>
 	<a href="https://pages.cloudflare.com/" target="_blank">
 		<img alt="Cloudflare Page" src="https://img.shields.io/badge/CloudFlare_Pages-%23F38020.svg?style=for-the-badge&logo=cloudflarepages&logoColor=white"/>
-	</a>
+	</a> -->
 	<a href="https://docker.com/" target="_blank">
 		<img alt="Docker" src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
 	</a>
@@ -120,23 +124,23 @@
 <h3 align='center'><strong>Github Stats</strong></h3>
 
 <table align="center">
-	<!-- <tr>
+	<tr>
 		<td align="center" width="100%" colspan="2">
 			<img src="https://github-readme-streak-stats.herokuapp.com/?user=naimsolong&hide_border=true&layout=compact" align="center" />
 		</td>
-	</tr> -->
+	</tr>
 	<tr>
-		<td align="center" width="50%">
+		<td align="center" width="100%">
 			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naimsolong&hide_border=true&layout=compact&hide=Blade&langs_count=10" align="center" />
 		</td>  
-		<td align="center" width="50%">
+		<!-- <td align="center" width="50%">
 			<img src="https://github-readme-stats.vercel.app/api?username=naimsolong&show_icons=true&count_private=true&hide_border=true" align="center" />
-		</td>
+		</td> -->
 	</tr>
 </table>
 
 ---
 
 <p align="center">
-	<sub>This Github profile was inspired from <a href="https://github.com/kurkurzz" target="_blank">Muhammad Nurhafiz</a>, <a href="https://github.com/jh3y" target="_blank">Jhey Tompkins</a>, <a href="https://github.com/HakamRaza" target="_blank">HakamRaza</a> and <a href="https://github.com/patelzz007" target="_blank">Bishen Patel</a></sub>
+	<sub>This Github profile setup was inspired from <a href="https://github.com/kurkurzz" target="_blank">Muhammad Nurhafiz</a>, <a href="https://github.com/jh3y" target="_blank">Jhey Tompkins</a>, <a href="https://github.com/HakamRaza" target="_blank">HakamRaza</a> and <a href="https://github.com/patelzz007" target="_blank">Bishen Patel</a></sub>
 </p>
